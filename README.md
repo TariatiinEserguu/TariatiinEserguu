@@ -17,11 +17,10 @@ offline-first mobile apps · systems & graphics in C/C++ · robotics firmware
 
 ### `~ $ cat about.md`
 
-I like building things that run on real devices. Lately that's meant a pharmacy
-app that works with no internet and keeps all its state in SQLite, small
+I like building things that run on real devices. Small
 graphics experiments in C, and firmware for a competition robot. I care about
 clean data models, readable code, and understanding the layer just below the
-one I'm working in.
+one.
 
 <sub>Learn → build → debug → repeat.</sub>
 
