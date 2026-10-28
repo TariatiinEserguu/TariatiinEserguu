@@ -1,12 +1,11 @@
 <div align="center">
 
-```text
+```console
 tariatiineserguu@github:~$ whoami
+Tariatiin Eserguu — software developer
+tariatiineserguu@github:~$ cat focus.txt
+offline-first mobile apps · systems & graphics in C/C++ · robotics firmware
 ```
-
-**Tariatiin Eserguu** — software developer
-
-<sub>offline-first mobile apps · systems &amp; graphics in C/C++ · robotics firmware</sub>
 
 <a href="https://github.com/TariatiinEserguu"><code>github</code></a> ·
 <a href="https://github.com/TariatiinEserguu?tab=repositories"><code>repositories</code></a> ·
@@ -53,10 +52,13 @@ one I'm working in.
 
 ### `~ $ ls projects/`
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[PharmaCare](https://github.com/TariatiinEserguu/Java-React-Native-App)** | Offline-first pharmacy manager — catalogue, batch/expiry inventory, sales, refunds and an append-only stock ledger, with the business rules enforced by SQLite triggers and covered by backend tests. | `React Native` · `Expo` · `SQLite` · `TypeScript` |
-| **[Tesseract](https://github.com/TariatiinEserguu/Tesseract)** | Real-time graphics experiments built on raylib while learning rendering in C. | `C` · `raylib` |
+**[PharmaCare](https://github.com/TariatiinEserguu/Java-React-Native-App)** &nbsp;·&nbsp; offline-first pharmacy manager &nbsp; <sub>`React Native` · `Expo` · `SQLite` · `TypeScript`</sub>
+
+- Runs with no server or network — medicine catalogue, batch/expiry inventory, sales, refunds and an append-only stock ledger, all in a local SQLite database.
+- Business rules live in the database as triggers: FEFO batch allocation, no selling expired or quarantined stock, and a ledger that can only be appended to.
+- 22 backend tests over the real schema, typed end to end with ESLint and `tsc` checks.
+
+**[Tesseract](https://github.com/TariatiinEserguu/Tesseract)** &nbsp;·&nbsp; real-time graphics experiments on raylib, learning rendering in C &nbsp; <sub>`C` · `raylib`</sub>
 
 <sub>Also in progress, in private repos: a Next.js media web app and C++ firmware for a Robocon robot.</sub>
 
@@ -64,8 +66,14 @@ one I'm working in.
 
 <div align="center">
 
-<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=56d4dd&text_color=c9d1d9&rank_icon=github" />
-<img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=56d4dd&text_color=c9d1d9&rank_icon=github" />
+  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&icon_color=0e7490&text_color=1f2328&rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+  <img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=1a7f37&text_color=1f2328" />
+</picture>
 
 </div>
 
