@@ -1,92 +1,76 @@
-```markdown
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   ████████╗ █████╗ ██████╗ ██╗ █████╗ ███████╗      │
-│   ╚══██╔══╝██╔══██╗██╔══██╗██║██╔══██╗╚══███╔╝      │
-│      ██║   ███████║██████╔╝██║███████║  ███╔╝       │
-│      ██║   ██╔══██║██╔══██╗██║██╔══██║ ███╔╝        │
-│      ██║   ██║  ██║██║  ██║██║██║  ██║███████╗      │
-│      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝      │
-│                                                      │
-│             T A R I A T I I N E S E R G U U          │
-│                  [ SYSTEM ONLINE ]                   │
-└──────────────────────────────────────────────────────┘
+tariatiineserguu@github:~$ whoami
 ```
 
-### `> whoami`
+**Tariatiin Eserguu** — software developer
 
-**Developer • Problem Solver • Tech Enthusiast**
+<sub>offline-first mobile apps · systems &amp; graphics in C/C++ · robotics firmware</sub>
 
-*Exploring systems, writing code, and turning ideas into reality.*
-
-[GitHub](https://github.com/TariatiinEserguu) · [Repositories](https://github.com/TariatiinEserguu?tab=repositories)
+<a href="https://github.com/TariatiinEserguu"><code>github</code></a> ·
+<a href="https://github.com/TariatiinEserguu?tab=repositories"><code>repositories</code></a> ·
+<a href="mailto:tariatiineserguu@gmail.com"><code>email</code></a>
 
 </div>
 
 ---
 
-### `> about --me`
+### `~ $ cat about.md`
 
-```bash
-user@github:~$ cat about.txt
+I like building things that run on real devices. Lately that's meant a pharmacy
+app that works with no internet and keeps all its state in SQLite, small
+graphics experiments in C, and firmware for a competition robot. I care about
+clean data models, readable code, and understanding the layer just below the
+one I'm working in.
 
-Name       : TariatiinEserguu
-Interests  : Software Development, Embedded Systems, IoT
-Mindset    : Learn -> Build -> Debug -> Repeat
-Status     : Always learning
-```
+<sub>Learn → build → debug → repeat.</sub>
 
-### `> ls ./tech-stack`
+### `~ $ ls tech/`
 
-<!-- Replace these with technologies you actually use -->
+**Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00ff9c" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff9c" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3fb950)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=3fb950)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3fb950)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=3fb950)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=3fb950)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=3fb950)
 
-### `> cat current_missions.txt`
+**Mobile &amp; web**
 
-- [ ] Build useful software and hardware projects
-- [ ] Improve my backend development skills
-- [ ] Experiment with embedded systems and IoT
-- [ ] Learn something new every day
+![React Native](https://img.shields.io/badge/React%20Native-0d1117?style=flat-square&logo=react&logoColor=56d4dd)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=56d4dd)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=56d4dd)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=56d4dd)
 
-### `> cd ~/projects`
+**Data &amp; tooling**
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[Project One](https://github.com/TariatiinEserguu)** | Add your best project here | `C++` |
-| **[Project Two](https://github.com/TariatiinEserguu)** | Add another project here | `Python` |
-| **[Project Three](https://github.com/TariatiinEserguu)** | Add a third project here | `Web / IoT` |
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=3fb950)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3fb950)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3fb950)
+![ESLint](https://img.shields.io/badge/ESLint-0d1117?style=flat-square&logo=eslint&logoColor=3fb950)
 
-### `> ./github-stats.sh`
+### `~ $ ls projects/`
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[PharmaCare](https://github.com/TariatiinEserguu/Java-React-Native-App)** | Offline-first pharmacy manager — catalogue, batch/expiry inventory, sales, refunds and an append-only stock ledger, with the business rules enforced by SQLite triggers and covered by backend tests. | `React Native` · `Expo` · `SQLite` · `TypeScript` |
+| **[Tesseract](https://github.com/TariatiinEserguu/Tesseract)** | Real-time graphics experiments built on raylib while learning rendering in C. | `C` · `raylib` |
+
+<sub>Also in progress, in private repos: a Next.js media web app and C++ firmware for a Robocon robot.</sub>
+
+### `~ $ git log --stat`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Most used programming languages" />
+<img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=56d4dd&text_color=c9d1d9&rank_icon=github" />
+<img height="160" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
 
 </div>
 
 ---
 
 <div align="center">
-
-```text
-[ CONNECTION ESTABLISHED ]
-> Keep building. Keep exploring.
-> exit 0
-```
-
-<sub>Designed in the terminal. Powered by curiosity.</sub>
-
+<sub><code>exit 0</code> — thanks for stopping by.</sub>
 </div>
-```
