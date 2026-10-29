@@ -186,20 +186,6 @@ When solve write-ups land, they go here, grouped by category — `web/`,
 - 100 Hz control task: PID, ESCs, valves. 4× quadrature encoders on the ESP32's **PCNT** hardware, LEDC PWM, and a 3× `74HC595` chain for 24 outputs.
 - Every pin, channel and tuning value lives in one `config.h`, with a full wiring map and schematic in the repo.
 
-**[PharmaCare](https://github.com/TariatiinEserguu/Java-React-Native-App)** · offline-first pharmacy manager
-<sub>`TypeScript` · `React Native` · `Expo` · `SQLite`</sub>
-
-- Runs with no server and no network: medicine catalogue, batch/expiry inventory, prescriptions, sales, refunds and an append-only stock ledger, all in a local SQLite database on the device.
-- Business rules live **in the database as triggers** — FEFO batch allocation, no selling expired or quarantined stock, a ledger that can only be appended to.
-- 33 tests over the real schema, plus ESLint and `tsc` checks, and a `docs/` folder with the ERD, data dictionary and UML.
-
-**[BUSIFY](https://github.com/TariatiinEserguu/Busify-App)** · bus-stop alert system on your own LAN
-<sub>`TypeScript` · `React` · `Express` · `Prisma` · `SQLite` · `Leaflet`</sub>
-
-- Follows a passenger's real GPS position and alarms when they're within a chosen distance of their stop (200 m default) — distance, not a guessed timer.
-- Three roles end to end: passenger, support agent, administrator — with route/stop editing on a map, audit log, and a resolved-cases report.
-- Self-hosted on purpose: LAN-only middleware, self-signed TLS for phone access, `helmet`, rate limiting, bcrypt, Zod-validated schemas shared between client and server, Vitest on both sides.
-
 **[Tesseract](https://github.com/TariatiinEserguu/Tesseract)** · a 4D hypercube you can fly around
 <sub>`C` · `raylib`</sub>
 
