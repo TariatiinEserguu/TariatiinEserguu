@@ -1,168 +1,149 @@
+<!-- ═══════════════════  往 生 堂  ·  W A N G S H E N G  ═══════════════════ -->
+
 <div align="center">
 
-```
-   ╭───────────────────────────────────────────────────────╮
-   │                                                       │
-   │   [ HU TAO MAIN ] :: [ CTF PLAYER ] :: [ DEVELOPER ]  │
-   │                                                       │
-   ╰───────────────────────────────────────────────────────╯
-```
+<img width="100%" alt="Wangsheng banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,45:5c0f17,100:b3202e&height=200&section=header&text=Tariatiin%20Eserguu&fontSize=52&fontColor=f3e6d8&fontAlignY=36&desc=%E5%BE%80%E7%94%9F%E5%A0%82%20%C2%B7%20open%20as%20usual%20today&descSize=18&descAlignY=58&descColor=e8853f&animation=fadeIn" />
 
-**「往生堂、本日も通常営業」** &nbsp; 🦋 &nbsp; <sub>Wangsheng Funeral Parlor — open as usual today.</sub>
+<a href="https://github.com/TariatiinEserguu">
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=E8853F&center=true&vCenter=true&width=620&height=40&lines=%F0%9F%A6%8B+CTF+player+%C2%B7+challenge+author+%C2%B7+platform+admin;%F0%9F%91%BB+bugs+are+just+ghosts+with+a+stack+trace;%F0%9F%94%A5+offline-first+apps+%C2%B7+ESP32+firmware+%C2%B7+C+graphics;%F0%9F%8C%B8+learn+%E2%86%92+build+%E2%86%92+break+it+on+purpose+%E2%86%92+repeat" />
+</a>
 
-<a href="https://github.com/TariatiinEserguu?tab=repositories"><code>repositories</code></a> ·
-<a href="https://github.com/TariatiinEserguu/Templated-CTFd"><code>ctf lab</code></a> ·
-<a href="mailto:tariatiineserguu@gmail.com"><code>mail</code></a>
+<br/>
 
-![Focus](https://img.shields.io/badge/focus-CTF%20%26%20security-b3202e?style=flat-square&labelColor=0b0b0d)
-![Builds](https://img.shields.io/badge/builds-offline--first%20apps-e8853f?style=flat-square&labelColor=0b0b0d)
-![Solders](https://img.shields.io/badge/solders-ESP32%20firmware-8b8b94?style=flat-square&labelColor=0b0b0d)
+[![CTFtime](https://img.shields.io/badge/CTFtime-tariatiineserguu-b3202e?style=for-the-badge&labelColor=0b0b0d&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2U4ODUzZiIgZD0iTTQgMnYyMGgyVjE0aDEybC0zLTQgMy00SDZWMnoiLz48L3N2Zz4=)](https://ctftime.org/user/268844)
+[![Team](https://img.shields.io/badge/team-3v3nt%20H0r1z0n-e8853f?style=for-the-badge&labelColor=0b0b0d)](https://ctftime.org/team/453547)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-player-b3202e?style=for-the-badge&labelColor=0b0b0d&logo=hackthebox&logoColor=9fef00)](https://app.hackthebox.com/users/897628)
+
+<sub>🌸 &nbsp;·&nbsp; 🦋 &nbsp;·&nbsp; 👻 &nbsp;·&nbsp; 🔥 &nbsp;·&nbsp; 🦋 &nbsp;·&nbsp; 🌸</sub>
 
 </div>
 
 ---
 
-### `~ $ whoami`
+## 🦋 &nbsp;The Director's Card
 
 ```console
-tariatiineserguu@void:~$ whoami
-Tariatiin Eserguu — developer, CTF & cybersecurity enthusiast, ESP32 tinkerer
+hutao@wangsheng:~$ whoami
+Tariatiin Eserguu — developer · CTF & cybersecurity enthusiast · ESP32 tinkerer
 
-tariatiineserguu@void:~$ cat ./focus.txt
-capture-the-flag infrastructure · offline-first apps · embedded control
-graphics & 4D math in C         · hardening things I host myself
+hutao@wangsheng:~$ cat ./ledger.txt
+  ┌──────────────────────────────────────────────────────────────┐
+  │  往生堂 · WANGSHENG PARLOR · client record                   │
+  ├──────────────────────────────────────────────────────────────┤
+  │  ROLE      CTF player · challenge author · platform admin    │
+  │  TEAM      3v3nt H0r1z0n                                     │
+  │  CURRENT   VOID//CTF — my own CTFd + a hand-written pack     │
+  │  ALSO      offline-first apps · embedded control · 4D math   │
+  │  SCOPE     my own machines and labs only                     │
+  └──────────────────────────────────────────────────────────────┘
 
-tariatiineserguu@void:~$ ./ghost --status
-[*] 一緒に遊ぼう？ ... one commit at a time 👻
+hutao@wangsheng:~$ ./boo --status
+[👻] 一緒に遊ぼう？ ... one commit at a time
 ```
-
-### `~ $ cat about.md`
 
 I like building things that actually run — on a phone with no signal, on a
-microcontroller bolted to a robot, on a box on my own LAN. Lately most of my
-free time goes into **CTF**: not just playing, but **building the platform and
-writing the challenges**, because designing a challenge teaches you the bug
-twice.
+microcontroller bolted to a robot, on a box on my own LAN. Most of my free time
+goes into **CTF**: playing it, and **building the platform and writing the
+challenges**, because designing a challenge teaches you the bug twice.
 
-I care about clean data models, code someone else can read, and understanding
-the layer just below the one I'm working in. Right now that layer is usually
-Linux, Docker, or a 100 Hz control loop.
-
-<sub>Learn → build → break it on purpose → document → repeat.</sub>
+<sub>🌸 Clean data models, readable code, and understanding the layer just below the one I'm working in.</sub>
 
 ---
 
-### `~ $ ls tech/`
+## 🔥 &nbsp;Ceremonial Tools
 
-**Languages**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0d?style=flat-square&logo=typescript&logoColor=d13b3b)
-![Python](https://img.shields.io/badge/Python-0b0b0d?style=flat-square&logo=python&logoColor=d13b3b)
-![C](https://img.shields.io/badge/C-0b0b0d?style=flat-square&logo=c&logoColor=d13b3b)
-![C++](https://img.shields.io/badge/C%2B%2B-0b0b0d?style=flat-square&logo=cplusplus&logoColor=d13b3b)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0d?style=flat-square&logo=javascript&logoColor=d13b3b)
-![SQL](https://img.shields.io/badge/SQL-d13b3b?style=flat-square&labelColor=0b0b0d)
-![SCSS](https://img.shields.io/badge/SCSS-0b0b0d?style=flat-square&logo=sass&logoColor=d13b3b)
+**languages**<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0d?style=for-the-badge&logo=typescript&logoColor=d13b3b)
+![Python](https://img.shields.io/badge/Python-0b0b0d?style=for-the-badge&logo=python&logoColor=d13b3b)
+![C](https://img.shields.io/badge/C-0b0b0d?style=for-the-badge&logo=c&logoColor=d13b3b)
+![C++](https://img.shields.io/badge/C%2B%2B-0b0b0d?style=for-the-badge&logo=cplusplus&logoColor=d13b3b)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0d?style=for-the-badge&logo=javascript&logoColor=d13b3b)
+![SQL](https://img.shields.io/badge/SQL-0b0b0d?style=for-the-badge&logo=postgresql&logoColor=d13b3b)
+![SCSS](https://img.shields.io/badge/SCSS-0b0b0d?style=for-the-badge&logo=sass&logoColor=d13b3b)
 
-**Security & self-hosting**
+**security & self-hosting**<br/>
+![Linux](https://img.shields.io/badge/Linux-0b0b0d?style=for-the-badge&logo=linux&logoColor=e8853f)
+![Docker](https://img.shields.io/badge/Docker-0b0b0d?style=for-the-badge&logo=docker&logoColor=e8853f)
+![CTFd](https://img.shields.io/badge/CTFd-0b0b0d?style=for-the-badge&logo=gitbook&logoColor=e8853f)
+![Redis](https://img.shields.io/badge/Redis-0b0b0d?style=for-the-badge&logo=redis&logoColor=e8853f)
+![MariaDB](https://img.shields.io/badge/MariaDB-0b0b0d?style=for-the-badge&logo=mariadb&logoColor=e8853f)
+![Flask](https://img.shields.io/badge/Flask-0b0b0d?style=for-the-badge&logo=flask&logoColor=e8853f)
 
-![Linux](https://img.shields.io/badge/Linux-0b0b0d?style=flat-square&logo=linux&logoColor=e8853f)
-![Docker](https://img.shields.io/badge/Docker-0b0b0d?style=flat-square&logo=docker&logoColor=e8853f)
-![CTFd](https://img.shields.io/badge/CTFd-e8853f?style=flat-square&labelColor=0b0b0d)
-![Redis](https://img.shields.io/badge/Redis-0b0b0d?style=flat-square&logo=redis&logoColor=e8853f)
-![MariaDB](https://img.shields.io/badge/MariaDB-0b0b0d?style=flat-square&logo=mariadb&logoColor=e8853f)
-![Flask](https://img.shields.io/badge/Flask-0b0b0d?style=flat-square&logo=flask&logoColor=e8853f)
+**apps & web**<br/>
+![React](https://img.shields.io/badge/React-0b0b0d?style=for-the-badge&logo=react&logoColor=f3e6d8)
+![React Native](https://img.shields.io/badge/React%20Native-0b0b0d?style=for-the-badge&logo=react&logoColor=f3e6d8)
+![Expo](https://img.shields.io/badge/Expo-0b0b0d?style=for-the-badge&logo=expo&logoColor=f3e6d8)
+![Vite](https://img.shields.io/badge/Vite-0b0b0d?style=for-the-badge&logo=vite&logoColor=f3e6d8)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0b0d?style=for-the-badge&logo=tailwindcss&logoColor=f3e6d8)
+![Express](https://img.shields.io/badge/Express-0b0b0d?style=for-the-badge&logo=express&logoColor=f3e6d8)
+![Prisma](https://img.shields.io/badge/Prisma-0b0b0d?style=for-the-badge&logo=prisma&logoColor=f3e6d8)
+![SQLite](https://img.shields.io/badge/SQLite-0b0b0d?style=for-the-badge&logo=sqlite&logoColor=f3e6d8)
 
-**Apps & web**
+**embedded, graphics & tooling**<br/>
+![Arduino](https://img.shields.io/badge/Arduino-0b0b0d?style=for-the-badge&logo=arduino&logoColor=8b8b94)
+![ESP32](https://img.shields.io/badge/ESP32-0b0b0d?style=for-the-badge&logo=espressif&logoColor=8b8b94)
+![raylib](https://img.shields.io/badge/raylib-0b0b0d?style=for-the-badge&logo=c&logoColor=8b8b94)
+![Git](https://img.shields.io/badge/Git-0b0b0d?style=for-the-badge&logo=git&logoColor=8b8b94)
+![Vitest](https://img.shields.io/badge/Vitest-0b0b0d?style=for-the-badge&logo=vitest&logoColor=8b8b94)
+![ESLint](https://img.shields.io/badge/ESLint-0b0b0d?style=for-the-badge&logo=eslint&logoColor=8b8b94)
 
-![React](https://img.shields.io/badge/React-0b0b0d?style=flat-square&logo=react&logoColor=8b8b94)
-![React Native](https://img.shields.io/badge/React%20Native-0b0b0d?style=flat-square&logo=react&logoColor=8b8b94)
-![Expo](https://img.shields.io/badge/Expo-0b0b0d?style=flat-square&logo=expo&logoColor=8b8b94)
-![Vite](https://img.shields.io/badge/Vite-0b0b0d?style=flat-square&logo=vite&logoColor=8b8b94)
-![Tailwind](https://img.shields.io/badge/Tailwind-0b0b0d?style=flat-square&logo=tailwindcss&logoColor=8b8b94)
-![Express](https://img.shields.io/badge/Express-0b0b0d?style=flat-square&logo=express&logoColor=8b8b94)
-![Prisma](https://img.shields.io/badge/Prisma-0b0b0d?style=flat-square&logo=prisma&logoColor=8b8b94)
-![SQLite](https://img.shields.io/badge/SQLite-0b0b0d?style=flat-square&logo=sqlite&logoColor=8b8b94)
+<sub>Everything above appears in a public repo on this account. If it isn't listed, I haven't shipped with it yet.</sub>
 
-**Embedded, graphics & tooling**
-
-![Arduino](https://img.shields.io/badge/Arduino-0b0b0d?style=flat-square&logo=arduino&logoColor=8b8b94)
-![ESP32](https://img.shields.io/badge/ESP32-0b0b0d?style=flat-square&logo=espressif&logoColor=8b8b94)
-![raylib](https://img.shields.io/badge/raylib-8b8b94?style=flat-square&labelColor=0b0b0d)
-![Git](https://img.shields.io/badge/Git-0b0b0d?style=flat-square&logo=git&logoColor=8b8b94)
-![Vitest](https://img.shields.io/badge/Vitest-0b0b0d?style=flat-square&logo=vitest&logoColor=8b8b94)
-![ESLint](https://img.shields.io/badge/ESLint-0b0b0d?style=flat-square&logo=eslint&logoColor=8b8b94)
-
-<sub>Everything above appears in a public repo on this account. If a tool isn't
-listed, I haven't shipped anything with it yet.</sub>
+</div>
 
 ---
 
-## ⚑ CTF / CYBERSECURITY LAB
+## ⚑ &nbsp;The Night Shift — CTF Lab
 
-```console
-tariatiineserguu@void:~/lab$ cat player.cfg
-┌─────────────────────────────────────────────────────────────────┐
-│ PLAYER           TariatiinEserguu                               │
-│ ROLE             CTF player · challenge author · platform admin │
-│ SPECIALTIES      crypto/encoding · forensics · OSINT · web      │
-│                  reverse engineering · Linux & Docker hardening │
-│ CURRENT_MISSION  VOID//CTF — running my own CTFd instance and   │
-│                  writing the challenge pack for it              │
-│ STATUS           learning :: building :: breaking on purpose    │
-│ SCOPE            my own machines and labs only                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `lab/categories/`
+### 🏮 Where I play
 
-Each category below is backed by a challenge I actually wrote, or
-infrastructure I actually hardened, in **[VOID//CTF](https://github.com/TariatiinEserguu/Templated-CTFd)**.
-
-| Category | Evidence on this account |
+| | |
 |---|---|
-| ⚑ **Cryptography** | *Signal in the Noise* — layered encoding challenge |
-| 🔎 **Digital forensics** | *Ghost in the Metadata* — image metadata challenge |
-| 🛰 **OSINT** | *The Lighthouse Keeper* — correlation over a fictional dossier |
-| 🕸 **Web exploitation** | *Staff Only* — broken access control, against a sandboxed local target |
-| ⚙ **Reverse engineering** | *Deep Signal* — XOR-obfuscated binary logic |
-| 🐧 **Linux & Docker** | Read-only containers, dropped capabilities, loopback-only binds, internal networks |
-| 🐍 **Scripting & automation** | Python tooling: challenge loader over the CTFd API, asset builder, smoke tests |
-| 🧪 **Pwn / stego** | Not yet — queued, nothing to show here until there is |
+| ⚑ **CTFtime** | [tariatiineserguu](https://ctftime.org/user/268844) |
+| 🛡 **Team** | [3v3nt H0r1z0n](https://ctftime.org/team/453547) |
+| 🟩 **Hack The Box** | [profile #897628](https://app.hackthebox.com/users/897628) |
+| 🏗 **Running** | [VOID//CTF](https://github.com/TariatiinEserguu/Templated-CTFd) |
 
-### `lab/platforms/`
+</td>
+<td width="50%" valign="top">
 
-> I don't have public CTF platform profiles linked yet, so there's nothing to
-> badge here honestly. The templates are in this file as HTML comments —
-> uncomment and fill in the handles when I make them.
+### 🌸 What I've written
 
-<!-- Fill in and uncomment when the profiles exist:
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-YOUR__HANDLE-0b0b0d?style=flat-square&logo=hackthebox&logoColor=e8853f)](https://app.hackthebox.com/profile/YOUR_ID)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-YOUR__HANDLE-0b0b0d?style=flat-square&logo=tryhackme&logoColor=e8853f)](https://tryhackme.com/p/YOUR_HANDLE)
-[![picoCTF](https://img.shields.io/badge/picoCTF-YOUR__HANDLE-e8853f?style=flat-square&labelColor=0b0b0d)](https://play.picoctf.org/users/YOUR_HANDLE)
-[![CTFtime](https://img.shields.io/badge/CTFtime-YOUR__TEAM-e8853f?style=flat-square&labelColor=0b0b0d)](https://ctftime.org/team/YOUR_TEAM_ID)
--->
+| Category | Challenge |
+|---|---|
+| 🔐 Crypto | *Signal in the Noise* |
+| 🔎 Forensics | *Ghost in the Metadata* |
+| 🛰 OSINT | *The Lighthouse Keeper* |
+| 🕸 Web | *Staff Only* |
+| ⚙ Rev | *Deep Signal* |
 
-### `lab/writeups/`
+</td>
+</tr>
+</table>
 
 ```console
-tariatiineserguu@void:~/lab/writeups$ ls -la
-total 0
-drwxr-xr-x  2 hutao hutao   .    # nothing published here yet
+hutao@wangsheng:~/lab$ cat hardening.log
+[+] read-only containers        [+] dropped capabilities
+[+] loopback-only binds         [+] internal-only networks
+[+] python tooling: CTFd API loader · asset builder · smoke tests
+[ ] pwn / stego                 # queued — nothing to show until there is
 ```
 
-No public write-ups yet — I'd rather have this empty than padded. What does
-exist is the other side of the table: **challenges I authored**, with my own
-intended solutions documented in
-**[`challenges/starter-pack/SOLUTIONS.md`](https://github.com/TariatiinEserguu/Templated-CTFd/blob/main/challenges/starter-pack/SOLUTIONS.md)**
-(spoilers, obviously).
-
-When solve write-ups land, they go here, grouped by category — `web/`,
-`crypto/`, `rev/`, `forensics/`, `osint/`.
+**Write-ups:** none public yet — I'd rather this stay empty than padded. The
+other side of the table is open, though: intended solutions for my own
+challenges live in
+[`SOLUTIONS.md`](https://github.com/TariatiinEserguu/Templated-CTFd/blob/main/challenges/starter-pack/SOLUTIONS.md)
+<sub>(spoilers, obviously 👻)</sub>.
 
 ---
 
-### `~ $ git log --stat`
+## 🕯 &nbsp;Parlor Records
 
 <div align="center">
 
@@ -180,42 +161,34 @@ When solve write-ups land, they go here, grouped by category — `web/`,
   <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=TariatiinEserguu&hide_border=true&background=ffffff&stroke=d8d8de&ring=b3202e&fire=c2671f&currStreakLabel=b3202e&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=6b6b75" />
 </picture>
 
-<sub>Cards rendered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> — community services, not official GitHub figures.
-If they don't load, the repo links above are the real record.</sub>
+<sub>Cards by community services (github-readme-stats, streak-stats), not official GitHub figures.</sub>
 
 </div>
 
 ---
 
-### `~ $ cat .hutao`
+## 👻 &nbsp;A Word from the Director
 
 ```console
-tariatiineserguu@void:~$ ./wangsheng --consult
+hutao@wangsheng:~$ ./wangsheng --consult
 🦋  「往生堂、本日も通常営業」
-    "Wangsheng Funeral Parlor — open as usual today."
+     Wangsheng Parlor — open as usual today.
 
-👻  Bugs are just ghosts with a stack trace.
-    My job is walking them politely to the exit.
+🔥  Every bug gets a proper send-off:
+     find it, name it, walk it politely to the exit.
 
-    胡桃ちゃんしか勝たん 🦋
+🌸  The plum blooms in winter; the patch ships at 3 a.m.
 ```
-
-<sub>Yes, the crimson is on purpose. No, the ghost is not a mascot — it's a coworker.</sub>
 
 ---
 
 <div align="center">
 
-### `~ $ contact`
+[![GitHub](https://img.shields.io/badge/GitHub-TariatiinEserguu-0b0b0d?style=for-the-badge&logo=github&logoColor=d13b3b)](https://github.com/TariatiinEserguu)
+[![Email](https://img.shields.io/badge/Email-tariatiineserguu@gmail.com-0b0b0d?style=for-the-badge&logo=gmail&logoColor=d13b3b)](mailto:tariatiineserguu@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-TariatiinEserguu-0b0b0d?style=flat-square&logo=github&logoColor=d13b3b)](https://github.com/TariatiinEserguu)
-[![Email](https://img.shields.io/badge/Email-tariatiineserguu@gmail.com-0b0b0d?style=flat-square&logo=gmail&logoColor=d13b3b)](mailto:tariatiineserguu@gmail.com)
+<sub>⚑ ethical labs only · my own machines · ask before you poke ⚑</sub>
 
-```
-    ⚑  ethical labs only · my own machines · ask before you poke  ⚑
-```
-
-<sub><code>exit 0</code> &nbsp;·&nbsp; 🦋 <i>thanks for dropping by the parlor</i> 🦋</sub>
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:b3202e,55:5c0f17,100:0b0b0d&height=110&section=footer&text=%F0%9F%A6%8B%20thanks%20for%20dropping%20by%20the%20parlor%20%F0%9F%A6%8B&fontSize=18&fontColor=f3e6d8&fontAlignY=72" />
 
 </div>
