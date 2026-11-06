@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img width="100%" alt="Wangsheng banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,45:5c0f17,100:b3202e&height=200&section=header&text=Tariatiin%20Eserguu&fontSize=52&fontColor=f3e6d8&fontAlignY=36&desc=%E5%BE%80%E7%94%9F%E5%A0%82%20%C2%B7%20open%20as%20usual%20today&descSize=18&descAlignY=58&descColor=e8853f&animation=fadeIn" />
+<img width="100%" alt="Hu Tao banner" src="assets/banner.jpg" />
+
+<img width="100%" alt="Tariatiin Eserguu" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0d,50:5c0f17,100:b3202e&height=110&text=Tariatiin%20Eserguu&fontSize=44&fontColor=f3e6d8&fontAlignY=40&desc=%E5%BE%80%E7%94%9F%E5%A0%82%20%C2%B7%20open%20as%20usual%20today&descSize=16&descAlignY=76&descColor=e8853f&animation=fadeIn" />
 
 <a href="https://github.com/TariatiinEserguu">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=E8853F&center=true&vCenter=true&width=620&height=40&lines=%F0%9F%A6%8B+CTF+player+%C2%B7+challenge+author+%C2%B7+platform+admin;%F0%9F%91%BB+bugs+are+just+ghosts+with+a+stack+trace;%F0%9F%94%A5+offline-first+apps+%C2%B7+ESP32+firmware+%C2%B7+C+graphics;%F0%9F%8C%B8+learn+%E2%86%92+build+%E2%86%92+break+it+on+purpose+%E2%86%92+repeat" />
@@ -21,6 +23,8 @@
 ---
 
 ## 🦋 &nbsp;The Director's Card
+
+<img align="right" width="230" alt="Hu Tao with butterflies" src="assets/butterfly.jpg" />
 
 ```console
 hutao@wangsheng:~$ whoami
@@ -47,6 +51,8 @@ goes into **CTF**: playing it, and **building the platform and writing the
 challenges**, because designing a challenge teaches you the bug twice.
 
 <sub>🌸 Clean data models, readable code, and understanding the layer just below the one I'm working in.</sub>
+
+<br clear="right"/>
 
 ---
 
@@ -169,6 +175,8 @@ challenges live in
 
 ## 👻 &nbsp;A Word from the Director
 
+<img align="left" width="200" alt="Hu Tao and Boo" src="assets/boo.jpg" />
+
 ```console
 hutao@wangsheng:~$ ./wangsheng --consult
 🦋  「往生堂、本日も通常営業」
@@ -180,6 +188,8 @@ hutao@wangsheng:~$ ./wangsheng --consult
 🌸  The plum blooms in winter; the patch ships at 3 a.m.
 ```
 
+<br clear="left"/>
+
 ---
 
 <div align="center">
@@ -189,6 +199,10 @@ hutao@wangsheng:~$ ./wangsheng --consult
 
 <sub>⚑ ethical labs only · my own machines · ask before you poke ⚑</sub>
 
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:b3202e,55:5c0f17,100:0b0b0d&height=110&section=footer&text=%F0%9F%A6%8B%20thanks%20for%20dropping%20by%20the%20parlor%20%F0%9F%A6%8B&fontSize=18&fontColor=f3e6d8&fontAlignY=72" />
+<img width="100%" alt="Hu Tao lantern night" src="assets/footer.jpg" />
+
+<sub>🦋 thanks for dropping by the parlor 🦋</sub>
+
+<sub><i>Hu Tao illustrations are fan art by their respective artists; Hu Tao © HoYoverse. Used non-commercially, no affiliation.</i></sub>
 
 </div>
