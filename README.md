@@ -154,20 +154,11 @@ challenges live in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=0b0b0d&title_color=d13b3b&icon_color=e8853f&text_color=c8c8d0&rank_icon=github" />
-  <img height="165" alt="GitHub stats for TariatiinEserguu" src="https://github-readme-stats.vercel.app/api?username=TariatiinEserguu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=b3202e&icon_color=c2671f&text_color=1f2328&rank_icon=github" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=8&bg_color=0b0b0d&title_color=d13b3b&text_color=c8c8d0" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariatiinEserguu&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=b3202e&text_color=1f2328" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TariatiinEserguu&hide_border=true&background=0b0b0d&stroke=2a2a30&ring=d13b3b&fire=e8853f&currStreakLabel=d13b3b&sideLabels=c8c8d0&currStreakNum=ececf1&sideNums=ececf1&dates=8b8b94" />
   <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=TariatiinEserguu&hide_border=true&background=ffffff&stroke=d8d8de&ring=b3202e&fire=c2671f&currStreakLabel=b3202e&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=6b6b75" />
 </picture>
 
-<sub>Cards by community services (github-readme-stats, streak-stats), not official GitHub figures.</sub>
+<sub>Streak card by streak-stats, a community service, not official GitHub figures.</sub>
 
 </div>
 
