@@ -162,40 +162,6 @@ When solve write-ups land, they go here, grouped by category — `web/`,
 
 ---
 
-### `~ $ ls projects/ --sort=interesting`
-
-#### 🚩 Security lab
-
-**[VOID//CTF](https://github.com/TariatiinEserguu/Templated-CTFd)** · a CTF platform I host myself
-<sub>`CTFd 3.8.9` · `Docker Compose` · `Alpine.js` · `SCSS` · `Vite` · `Python` · `MariaDB` · `Redis`</sub>
-
-- A full local Capture The Flag platform on the official open-source CTFd image, with a custom terminal theme: landing page with live event status, a `Ctrl+K` command palette, filterable challenge board, podium scoreboard.
-- Theme and plugin are **bind-mounted read-only** into the stock image — upgrading CTFd is a version bump, no fork of CTFd's auth, flag checking or scoring.
-- The one plugin I added is **GET-only and read-only**, and reuses CTFd's own visibility and scoreboard-freeze checks before returning anything.
-- Private by default: every port binds to `127.0.0.1`, database and cache sit on an internal Docker network with nothing published, and the optional web target runs read-only, unprivileged, with all Linux capabilities dropped.
-- Ships a **6-challenge starter pack** I wrote across crypto, forensics, OSINT, web, misc and rev — all synthetic, all aimed at my own machine.
-
-<sub>Status: working, documented, actively tinkered with.</sub>
-
-#### 🛠 Software & firmware
-
-**[Robocon-2027](https://github.com/TariatiinEserguu/Robocon-2027)** · ESP32 firmware for our ABU Robocon R1 robot
-<sub>`C++` · `Arduino-ESP32` · `Bluepad32`</sub>
-
-- 4-wheel **swerve drive** with a pneumatic gripper/lift, conveyor and arm, driven over Bluetooth from a game controller — all on a single ESP32 after merging what used to be two I2C-linked boards.
-- 100 Hz control task: PID, ESCs, valves. 4× quadrature encoders on the ESP32's **PCNT** hardware, LEDC PWM, and a 3× `74HC595` chain for 24 outputs.
-- Every pin, channel and tuning value lives in one `config.h`, with a full wiring map and schematic in the repo.
-
-**[Tesseract](https://github.com/TariatiinEserguu/Tesseract)** · a 4D hypercube you can fly around
-<sub>`C` · `raylib`</sub>
-
-- 16 vertices in 4D, **double-rotated** in the XY and ZW planes at once (a rotation that only exists in 4D), perspective-divided down to 3D by `w`.
-- All 32 edges drawn, colour-coded by which cube they belong to. One C file, one dependency. Built to practise the math, not to be a product.
-
-<sub>There are a couple of private repos too — nothing from them is published here.</sub>
-
----
-
 ### `~ $ git log --stat`
 
 <div align="center">
