@@ -4,7 +4,7 @@
 
 <img width="100%" alt="Hu Tao banner" src="assets/banner.jpg" />
 
-<img width="100%" alt="Tariatiin Eserguu" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0d,50:5c0f17,100:b3202e&height=110&text=Tariatiin%20Eserguu&fontSize=44&fontColor=f3e6d8&fontAlignY=40&desc=%E5%BE%80%E7%94%9F%E5%A0%82%20%C2%B7%20open%20as%20usual%20today&descSize=16&descAlignY=76&descColor=e8853f&animation=fadeIn" />
+<img width="100%" alt="Tariatiin Eserguu" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0d,50:5c0f17,100:b3202e&height=80&text=Tariatiin%20Eserguu&fontSize=38&fontColor=f3e6d8&fontAlignY=55&animation=fadeIn" />
 
 <a href="https://github.com/TariatiinEserguu">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=E8853F&center=true&vCenter=true&width=620&height=40&lines=%F0%9F%A6%8B+CTF+player+%C2%B7+challenge+author+%C2%B7+platform+admin;%F0%9F%91%BB+bugs+are+just+ghosts+with+a+stack+trace;%F0%9F%94%A5+offline-first+apps+%C2%B7+ESP32+firmware+%C2%B7+C+graphics;%F0%9F%8C%B8+learn+%E2%86%92+build+%E2%86%92+break+it+on+purpose+%E2%86%92+repeat" />
