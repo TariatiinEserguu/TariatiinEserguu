@@ -35,6 +35,10 @@ Cybersecurity · CTF challenge design · Software & embedded development · C
 | **Security labs** | Metasploit, Python, Linux, Docker, CTFd, Flask, Redis, MariaDB |
 | **Development** | SQL, Git, Vitest, ESLint |
 
+<p align="center">
+  <img src="assets/footer.jpg" alt="Hu Tao with glowing butterflies and lanterns" width="640" />
+</p>
+
 ## 👻 The Night Shift
 
 I play CTFs with **3v3nt H0r1z0n** and write challenges for my local **VOID//CTF** lab. I built Python tools to load challenges through the CTFd API, generate assets, and run smoke tests. The lab uses read-only containers, restricted capabilities, loopback-only bindings, and internal Docker networks.
