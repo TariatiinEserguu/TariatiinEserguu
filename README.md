@@ -14,7 +14,7 @@ Developer · CTF challenge author
 
 ```console
 hutao@wangsheng:~$ whoami
-Cybersecurity · CTF challenge design · Software & embedded development · C and C++
+Cybersecurity · CTF challenge design · Software & embedded development · C
 ```
 
 ## 🏮 Featured projects
