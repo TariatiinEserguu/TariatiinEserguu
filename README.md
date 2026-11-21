@@ -4,7 +4,7 @@
 
 <strong>往生堂 · Wangsheng Parlor</strong>
 
-Developer · CTF challenge author · Lab admin
+Developer · CTF challenge author
 
 [CTFtime](https://ctftime.org/user/268844) · [3v3nt H0r1z0n](https://ctftime.org/team/453547) · [Hack The Box](https://app.hackthebox.com/users/897628) · [Email](mailto:tariatiineserguu@gmail.com)
 
@@ -14,7 +14,7 @@ Developer · CTF challenge author · Lab admin
 
 ```console
 hutao@wangsheng:~$ whoami
-Offline-first apps · ESP32 firmware · C graphics
+Cybersecurity · CTF challenge design · Software & embedded development · C and C++
 ```
 
 ## 🏮 Featured projects
