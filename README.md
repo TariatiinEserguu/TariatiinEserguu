@@ -2,8 +2,6 @@
 
 <img src="assets/banner.jpg" alt="Hu Tao banner" width="100%" />
 
-<h1>Tariatiin Eserguu</h1>
-
 <strong>往生堂 · Wangsheng Parlor</strong>
 
 Developer · CTF challenge author · Lab admin
