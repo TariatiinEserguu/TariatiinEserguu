@@ -18,7 +18,7 @@
 
 <strong>往生堂 · Wangsheng Parlor</strong>
 
-[CTFtime](https://ctftime.org/user/268844) · [3v3nt H0r1z0n](https://ctftime.org/team/453547) · [Hack The Box](https://app.hackthebox.com/users/897628) · [Email](mailto:tariatiineserguu@gmail.com)
+[CTFtime](https://ctftime.org/user/268844) · [3v3nt H0r1z0n](https://ctftime.org/team/453547) · [Hack The Box](https://app.hackthebox.com/users/897628)
 
 </div>
 
@@ -28,15 +28,6 @@
 Cybersecurity / CTF challenge design
 Software and embedded development / C
 ```
-
-## `$ ls projects/`
-
-| Project | Overview |
-| --- | --- |
-| [VOID//CTF](https://github.com/TariatiinEserguu/Templated-CTFd) | A self-hosted CTFd platform with a terminal-inspired theme and five original challenges. |
-| [Busify](https://github.com/TariatiinEserguu/Busify-App) | Uses live GPS to alert passengers as they approach their stop. Runs locally with React, Express, and SQLite. |
-| [Robocon 2027](https://github.com/TariatiinEserguu/Robocon-2027) | ESP32 firmware for our Bluetooth-controlled swerve-drive robot. |
-| [Tesseract](https://github.com/TariatiinEserguu/Tesseract) | A C and raylib viewer that projects a rotating 4D hypercube into 3D. |
 
 ## `$ cat toolbox.txt`
 
@@ -55,6 +46,6 @@ I play CTFs with **3v3nt H0r1z0n** and write challenges for my local **VOID//CTF
 | --- | --- |
 | Crypto | Signal in the Noise |
 | Forensics | Ghost in the Metadata |
-| OSINT | The Lighthouse Keeper |
+| PWN | Binary Exploit |
 | Web | Staff Only |
 | Reverse engineering | Deep Signal |
