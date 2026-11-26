@@ -1,18 +1,4 @@
-```text
-.---------------------------------------.
-| [>_] wangsheng/tty01           [_][x] |
-+---------------------------------------+
-|                                       |
-| $ cat /etc/motd           .-""""-.    |
-|                          /        \   |
-| W A N G S H E N G       |   o  o   |  |
-| P A R L O R             |     o    |  |
-|                         |          |  |
-| Developer               |  /\  /\  |  |
-| CTF challenge author     \/  \/  \/   |
-|                                       |
-'---------------------------------------'
-```
+![Wangsheng Parlor terminal with a floating ASCII ghost. Developer and CTF challenge author.](./assets/wangsheng-ghost.gif)
 
 <div align="center">
 
